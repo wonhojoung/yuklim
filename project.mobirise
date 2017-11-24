@@ -43,8 +43,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "상상마케팅스쿨 11기",
-        "meta_descr": "강원지역 3팀 홈페이지입니다.",
+        "title": "육림고개",
+        "meta_descr": "강원도 춘천시 육림고개 안내,  문화행사, 지리정보 제공.",
         "header_custom": "<meta name=\"naver-site-verification\" content=\"2b996be4eb828c10e76a5aced9106d2eaf6f4dcc\"/>",
         "footer_custom": "",
         "html_before": ""
