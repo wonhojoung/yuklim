@@ -36,7 +36,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 122,
+    "uniqCompNum": 124,
     "versionPublish": "4.4.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -47,7 +47,7 @@
         "main": true,
         "title": "육림고개",
         "meta_descr": "강원도 춘천시 육림고개 안내,  문화행사, 지리정보 제공.",
-        "header_custom": "<meta name=\"naver-site-verification\" content=\"2b996be4eb828c10e76a5aced9106d2eaf6f4dcc\"/>\n\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"육림고개\">\n<meta property=\"og:description\" content=\"강원도 춘천시 육림고개 안내,  문화행사, 지리정보 제공.\">\n<meta property=\"og:image\" content=\"http://www.yuklim.com/assets/images/-2000x1000.png\">\n<meta property=\"og:url\" content=\"http://www.yuklim.com\">\n\n",
+        "header_custom": "<meta name=\"naver-site-verification\" content=\"2b996be4eb828c10e76a5aced9106d2eaf6f4dcc\"/>\n\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"육림고개\">\n<meta property=\"og:description\" content=\"강원도 춘천시 육림고개 안내,  문화행사, 지리정보 제공.\">\n<meta property=\"og:image\" content=\"http://www.yuklim.com/assets/images/-2000x1000.png\">\n<meta property=\"og:url\" content=\"http://www.yuklim.com\">\n\n<meta name=\"google-site-verification\" content=\"qmeJtGiO48sgjecpTbEqjP4ojcSwwpRdrzqwyltkyNk\" />\n",
         "footer_custom": "",
         "html_before": ""
       },
